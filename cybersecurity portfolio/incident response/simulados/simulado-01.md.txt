@@ -1,0 +1,33 @@
+## Simulado 01 — Análise de Incidente (Raciocínio Manual)
+**Data:** 21/01/2026
+
+### Cenário
+Foram apresentados cenários hipotéticos de segurança com foco em identificação de incidentes,
+análise inicial e tomada de decisão sem uso de ferramentas automatizadas.
+
+### Análise Inicial
+A análise foi conduzida de forma lógica, priorizando:
+- Compreensão do contexto antes da ação
+- Identificação do possível impacto
+- Avaliação de risco com base em informação limitada
+
+Houve cautela para não assumir conclusões precipitadas.
+
+### Decisão Tomada
+As decisões foram baseadas em:
+- Contenção lógica do problema
+- Preservação de informações
+- Evitar ações destrutivas ou irreversíveis
+
+O foco foi entender o incidente antes de “resolver” rapidamente.
+
+### Pontos de Atenção
+- Tendência inicial à autocrítica excessiva
+- Necessidade de confiar mais no próprio raciocínio
+- Ajustar o equilíbrio entre cautela e ação
+
+### Aprendizado
+- Simulados são parte ativa do estudo
+- Pensar com calma aumenta a qualidade da decisão
+- Análise vale mais que velocidade
+
